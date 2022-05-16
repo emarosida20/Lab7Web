@@ -21,18 +21,18 @@
 - Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat kode seperti berikut.
 ![3](https://user-images.githubusercontent.com/101863671/168504871-8adcb438-88e2-4f8e-ae0d-6bd381640e9f.png)
 - Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/php_dasar.php
-![4](https://user-images.githubusercontent.com/101863671/168505114-24206a29-39e2-472e-a929-4740591eae74.png)
+![4](https://user-images.githubusercontent.com/101863671/168514893-327be459-7c84-4622-ba8d-7a92d9f4e708.png)
 
 # Variable PHP
 - Menambahkan variable pada program.
 ![5](https://user-images.githubusercontent.com/101863671/168506735-2c06db04-729a-477b-a4de-09239144600a.png)
 - Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/php_dasar.php
-![6](https://user-images.githubusercontent.com/101863671/168507379-149469b0-d698-487a-af6d-6c7b934b8079.png)
+![6](https://user-images.githubusercontent.com/101863671/168515061-4c102201-c7e9-4a38-8103-a6062037c11b.png)
 
 # Predefine Variable $_GET
 ![7](https://user-images.githubusercontent.com/101863671/168507931-7a5142a7-bd08-4000-9d66-ef2a4b8b5286.png)
 - Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/latihan2.php?nama=Ema
-![8](https://user-images.githubusercontent.com/101863671/168510013-f97e50c8-f576-4159-b692-7f67cb9e8193.png)
+![8](https://user-images.githubusercontent.com/101863671/168515334-ee392960-78a2-447f-905d-e6ac62e49b2a.png)
 
 # Membuat Form Input
 ![9](https://user-images.githubusercontent.com/101863671/168510188-2847f683-aa7d-4c2d-8552-e7d11afc1f27.png)
