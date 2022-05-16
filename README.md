@@ -53,7 +53,7 @@
 
 # Perulangan for
 ![17](https://user-images.githubusercontent.com/101863671/168511876-78b9f1ad-1647-4935-ae4b-5c20b0f4c892.png)
-![18](https://user-images.githubusercontent.com/101863671/168511911-0aa6c678-d8b7-4acb-9d62-20acbded342f.png)
+![18](https://user-images.githubusercontent.com/101863671/168515749-fd1c29a7-682b-490c-a4b3-c4cb980ee5bc.png)
 
 # Perulangan while
 ![19](https://user-images.githubusercontent.com/101863671/168512003-1d3447bf-fca6-4104-ac19-82631273b6ff.png)
@@ -66,7 +66,7 @@
 # Pertanyaan dan Tugas
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung
 umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
-
+- Jawab:
 ![23](https://user-images.githubusercontent.com/101863671/168513122-1ecf184a-f5d3-4fae-955a-39592dae9dfc.png)
 ![24](https://user-images.githubusercontent.com/101863671/168513155-59bcf563-bc66-491b-8ec8-a03c028441e3.png)
 ![25](https://user-images.githubusercontent.com/101863671/168513162-571e0f90-3731-47dc-b914-8bc585227336.png)
